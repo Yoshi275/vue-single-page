@@ -1,0 +1,352 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"no",
+				"noOfStations"
+			],
+			[
+				"current",
+				"currentStationArrPos"
+			],
+			[
+				"noOf",
+				"noOfBinLocations"
+			],
+			[
+				"minDi",
+				"minDistances"
+			],
+			[
+				"bin",
+				"binLongitudes"
+			],
+			[
+				"binLat",
+				"binLatitudes"
+			],
+			[
+				"curre",
+				"currentStationArrPos"
+			],
+			[
+				"station",
+				"stationLongitudes"
+			],
+			[
+				"curr",
+				"currDistance"
+			],
+			[
+				"statio",
+				"stationLongitudes"
+			],
+			[
+				"long",
+				"longitudes"
+			],
+			[
+				"small",
+				"small_left"
+			],
+			[
+				"left",
+				"left_motor"
+			],
+			[
+				"right",
+				"right_motor"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Administrator/meal-prep"
+	],
+	"file_history":
+	[
+		"/C/Users/Administrator/meal-prep/src/views/Home.vue",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2040 - Data Structures and Algorithms/Lectures/FloydWarshallDemo.java",
+		"/C/Users/Administrator/Downloads/vue.js",
+		"/C/Users/Administrator/meal-prep/src/App.vue",
+		"/C/Users/Administrator/meal-prep/package.json",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2040 - Data Structures and Algorithms/Lectures/Lect14-Shortest-Way-Part1_updated/BellmanFordDemo.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2040 - Data Structures and Algorithms/Lectures/Lect10-Census-Problem_BST/BSTDemo.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2040 - Data Structures and Algorithms/Lectures/Lect09-Heaps-of-Fun_updated/BinaryHeapDemo.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/labs/lab4/catsanddogs5/Main.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/labs/lab4/catsanddogs5/IllegalInstructionException.java",
+		"/C/Users/Administrator/AppData/Local/Packages/microsoft.windowscommunicationsapps_8wekyb3d8bbwe/LocalState/Files/S0/4742/Main[8681].java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/labs/lab7/infinitelist2/InfiniteListImpl.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/practicallab2/Parser5.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/practicallab2/Parser4.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/labs/lab5/streams4/Main.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2040 - Data Structures and Algorithms/Labs/takehome4/PandaIslands.java",
+		"/C/Users/Administrator/Downloads/Telegram Desktop/PandaIslands (2).java",
+		"/C/Users/Administrator/Downloads/Telegram Desktop/PandaIslands.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2040 - Data Structures and Algorithms/Labs/takehome4/take_home_4_ex/ex2/pandaislands7.in",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2040 - Data Structures and Algorithms/Labs/takehome4/PandaChess.java",
+		"/C/Users/Administrator/Downloads/Telegram Desktop/InfiniteListImpl.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2040 - Data Structures and Algorithms/Labs/PandaChess.java",
+		"/C/Users/Administrator/Downloads/Telegram Desktop/Main (10).java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/labs/lab4/catsanddogs1/Main.java",
+		"/C/Users/Administrator/Downloads/Telegram Desktop/Generate (2).java",
+		"/C/Users/Administrator/Downloads/Telegram Desktop/Customer (3).java",
+		"/C/Users/Administrator/Downloads/Telegram Desktop/Event (2).java",
+		"/C/Users/Administrator/Downloads/Telegram Desktop/EventComparator (2).java",
+		"/C/Users/Administrator/Downloads/Telegram Desktop/Main (7).java",
+		"/C/Users/Administrator/Downloads/Telegram Desktop/Main (9).java",
+		"/C/Users/Administrator/Downloads/Telegram Desktop/Server (3).java",
+		"/C/Users/Administrator/Downloads/Telegram Desktop/Simulator (2).java",
+		"/C/Users/Administrator/Downloads/Telegram Desktop/State (2).java",
+		"/C/Users/Administrator/Downloads/Telegram Desktop/Simulator.java",
+		"/C/Users/Administrator/Downloads/Telegram Desktop/State.java",
+		"/C/Users/Administrator/Downloads/Telegram Desktop/Server (2).java",
+		"/C/Users/Administrator/Downloads/Telegram Desktop/EventComparator.java",
+		"/C/Users/Administrator/Downloads/Telegram Desktop/Event.java",
+		"/C/Users/Administrator/Downloads/Telegram Desktop/Customer (2).java",
+		"/C/Users/Administrator/Downloads/Telegram Desktop/Main (8).java",
+		"/C/Users/Administrator/Downloads/Grades.java",
+		"/C/Users/Administrator/Downloads/Telegram Desktop/Server.java",
+		"/C/Users/Administrator/Downloads/Telegram Desktop/Customer.java",
+		"/C/Users/Administrator/Downloads/Telegram Desktop/Main (4).java",
+		"/C/Users/Administrator/Downloads/Telegram Desktop/CustomerQueue.java",
+		"/C/Users/Administrator/Downloads/Telegram Desktop/Ballpassing.java",
+		"/C/Users/Administrator/Application Data/SSH/temp/brackets5 (1).in",
+		"/C/Users/Administrator/Documents/GitHub/conino-master/frontend/src/components/viewAllergies/ViewAllergies.js",
+		"/C/Users/Administrator/Documents/GitHub/conino/frontend/src/components/viewAllergies/ViewAllergies.js",
+		"/C/Users/Administrator/Documents/GitHub/conino/frontend/src/components/findPatient/findPatient.js",
+		"/C/Users/Administrator/Documents/GitHub/conino-master/frontend/src/components/FindPatient/PatientInfo.js",
+		"/C/Users/Administrator/Documents/GitHub/conino/frontend/src/config/patients.js",
+		"/C/Users/Administrator/Documents/GitHub/conino/frontend/src/components/findPatient/PatientInfo.js",
+		"/C/Users/Administrator/Documents/GitHub/conino-master/frontend/src/config/patients.js",
+		"/C/Users/Administrator/Documents/GitHub/conino/frontend/src/components/config.js",
+		"/C/Users/Administrator/Documents/GitHub/conino/frontend/src/components/home/Home.js",
+		"/C/Users/Administrator/Documents/GitHub/conino/frontend/src/reducers/PatientReducer.js",
+		"/C/Users/Administrator/Documents/GitHub/conino/frontend/README.md",
+		"/C/Users/Administrator/Documents/GitHub/conino/frontend/src/index.js",
+		"/C/Users/Administrator/Documents/GitHub/conino/README.md",
+		"/C/Users/Administrator/Downloads/Telegram Desktop/Main (2).java",
+		"/C/Users/Administrator/Downloads/Telegram Desktop/Main (3).java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/labs/lab5/streams3/Main.java",
+		"/C/Users/Administrator/Downloads/Telegram Desktop/Generate.java",
+		"/C/Users/Administrator/Documents/SSH Files/Ranking.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/labs/lab2/cruise5/Loader.java",
+		"/C/Users/Administrator/Application Data/SSH/temp/Ranking.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/mockpractical1/mcacme3/Main.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/mockpractical1/mcacme3/FoodItem.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/mockpractical1/mcacme1/FoodItem.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/mockpractical1/mcacme1/Main.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/lab3/texteditor4/Main.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/lab3/texteditor4/TextFormatter.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/lab4/catsanddogs2/Cat.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/lab4/catsanddogs2/Animal.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/lab4/catsanddogs2/Main.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/lab2/cruise2/Main.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/lab2/cruise1/Main.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/lab2/cruise1/Cruise.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/lab2/cruise5/Cruise.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/lab3/texteditor3.1/SnakeCase.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/lab3/texteditor3.1/KebabCase.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/lab3/texteditor3.1/PascalCase.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/lab1/question4/Point.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/lab3/texteditor3.1/TextFormatter.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/lab3/texteditor3.1/Main.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/lab3/texteditor3.1/TextEditor.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/lab3/texteditor3/TextFormatter.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/lab3/texteditor3/TextEditor.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/lab3/texteditor3.1/test4.in",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/lab3/texteditor3.1/test3.in",
+		"/C/Users/Administrator/Downloads/TextEditor.java",
+		"/C/Users/Administrator/Downloads/SnakeCase.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/lab1/question1/Main.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/lab2/cruise4/test2.in",
+		"/C/Users/Administrator/Downloads/Telegram Desktop/test.in",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/lab2/cruise2/test1.in",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/lab1/question3/Point.java",
+		"/C/Users/Administrator/Documents/SSH Files/censorship.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/lab1/question2/Main.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/dataj/GeometryJSON.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2040 - Data Structures and Algorithms/Labs/takehome1/sequences.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2040 - Data Structures and Algorithms/Labs/takehome0/hello/skeleton/HelloWorld.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/lecture2/Main.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/lecture2/Circle.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/lecture2/Point.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/testcode/tutorial1/Point.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/lecture3/Circle.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/lecture3/Shape.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/lecture1/DiscCoverage1.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/lecture1/Circle.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/lecture1/Point.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/lecture3/FilledCircle.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/lecture1/DiscCoverage.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/testcode/Circle.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/testcode/filledCircle.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/testcode/newCircle.java",
+		"/C/Users/Administrator/Downloads/FilledCircle.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/testcode/Main.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/helpmeval/lectsucks.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/helpmeval/Circle.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/helpmeval/ewlect.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/helpmeval/lectsucksagain.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/Vim Freaks Me Out/MinGW/msys/1.0/home/helpmeval/data.in",
+		"/C/Users/Administrator/Downloads/MinGW/msys/1.0/home/helloworld/NewDisk.java",
+		"/C/Users/Administrator/Documents/NUS Modules/Y1S2/CS2030 - Programming Methodology II/DiskCoverage.java",
+		"/C/Users/Administrator/Desktop/Projects/todo/README.md",
+		"/C/Users/Administrator/Documents/GitHub/conino/frontend/node_modules/caniuse-lite/data/regions/TL.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "meal-prep-project.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
