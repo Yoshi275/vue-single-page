@@ -9,14 +9,14 @@
 </template>
 
 <script>
-	import AppNavigation from "@/components/AppNavigation.vue";
+import AppNavigation from "@/components/AppNavigation.vue";
 
-	export default {
-    	name: "App",
-    	components: {
-    		AppNavigation
-    	}
-	};
+export default {
+    name: "App",
+    components: {
+    	AppNavigation
+    }
+};
 </script>
 
 <style>

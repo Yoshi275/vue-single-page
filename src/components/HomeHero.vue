@@ -1,6 +1,6 @@
 <template>
     <!-- prop fluid: fills width; prop fill-height: fills height -->
-    <v-container fluid fill-height class="home-hero">
+    <v-container fluid fill-height class="home-hero" style="max-height:100vh">
         <v-layout justify-center align-center column pa-5>
             <div class="display-4 font-weight-black white-text text-xs-center">
                 HEALTHY MEALS
